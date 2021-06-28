@@ -3,7 +3,7 @@ A basic Screen-recorder sofware made with python
 
 
 
-# Run the code 
+# how to run the file
 ```
 git clone https://github.com/qwe123coder/Python-Screen-recorder.git
 pip install numpy
