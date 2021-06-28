@@ -5,7 +5,7 @@ A basic Screen-recorder sofware made with python
 
 # Run the code 
 ```
-git clone 
+git clone https://github.com/qwe123coder/Python-Screen-recorder.git
 pip install numpy
 pip install pyautogui
 pip install opencv-python
